@@ -26,3 +26,5 @@ def test_unique_countries():
 
 def test_num_repeats():
     assert num_of_repeats == 3
+
+print("This is my first git commit, very excited")
