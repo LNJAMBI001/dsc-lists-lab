@@ -28,3 +28,7 @@ def test_num_repeats():
     assert num_of_repeats == 3
 
 print("This is my first git commit, very excited")
+
+names = ["Lucy","Shanice","Jipheens"]
+for name in names:
+    print(name)
